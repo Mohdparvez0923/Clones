@@ -1,0 +1,310 @@
+.all .a .b .c .d .e .f .g .h .i .j {
+    position: relative;
+    display: inline-block;
+}
+.btn {
+    background-color: white;
+    color: black;
+    font-size: 14px;
+    border: none;
+    padding-left: 28px;
+}
+
+.content {
+    display: none;
+    position: absolute;
+    background-color:  black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+.content a{
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}.content a:hover{
+    background-color: black;
+}
+.a:hover .content{
+    display: block;
+}
+.a:hover .btn{
+    background-color:white;
+}
+
+
+
+.content1 {
+    display: none;
+    position: absolute;
+    background-color:  black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+.content1 a{
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}.content1 a:hover{
+    background-color: black;
+}
+.b:hover .content1{
+    display: block;
+}
+.b:hover .btn{
+    background-color: white;
+}
+
+.content2 {
+    display: none;
+    position: absolute;
+    background-color:  black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+.content2 a{
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}.content2 a:hover{
+    background-color: black;
+}
+.c:hover .content2{
+    display: block;
+}
+.c:hover .btn{
+    background-color: white;
+}
+
+.content3 {
+    display: none;
+    position: absolute;
+    background-color:  black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+.content3 a{
+    color:white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}.content3 a:hover{
+    background-color: black;
+}
+.d:hover .content3{
+    display: block;
+}
+.d:hover .btn{
+    background-color: white;
+}
+
+.content4 {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+.content4 a{
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}.content4 a:hover{
+    background-color: black;
+}
+.e:hover .content4{
+    display: block;
+}
+.e:hover .btn{
+    background-color:white;
+}
+
+.content5 {
+    display: none;
+    position: absolute;
+    background-color:  black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+.content5 a{
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}.content5 a:hover{
+    background-color: black;
+}
+.f:hover .content5{
+    display: block;
+}
+.f:hover .btn{
+    background-color: white;
+}
+
+.content6 {
+    display: none;
+    position: absolute;
+    background-color:  black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+.content6 a{
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}.content6 a:hover{
+    background-color: black;
+}
+.g:hover .content6{
+    display: block;
+}
+.g:hover .btn{
+    background-color:white;
+}
+
+.content7 {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+.content7 a{
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}.content7 a:hover{
+    background-color: black;
+}
+.h:hover .content7{
+    display: block;
+}
+.h:hover .btn{
+    background-color: white;
+}
+
+
+.content8 {
+    display: none;
+    position: absolute;
+    background-color: black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+.content8 a{
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}.content8 a:hover{
+    background-color: black;
+}
+.i:hover .content8{
+    display: block;
+}
+.i:hover .btn{
+    background-color: white;
+}
+
+.content9 {
+    display: none;
+    position: absolute;
+    background-color:black;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+.content9 a{
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}.content9 a:hover{
+    background-color:black;
+}
+.j:hover .content9{
+    display: block;
+}
+.j:hover .btn{
+    background-color: white;
+}
+.img {
+    display: flex;
+}
+.img-src {
+    padding: 8px 10px;
+    border: none;
+    border-radius: 10px;
+    margin: 0;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(151, 175, 245);
+}
+.img-src a {
+    text-decoration: none;
+    border: 1px solid white;
+    background-color: whitesmoke;
+    color: black;
+    padding: 3px 8px;
+    border-radius: 6px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.image-2{
+    width: 240px;
+    height: 175px;
+    padding: 5px 8px;
+
+}
+/* second drop down menu  */
+
+.py {
+    /* display: none;
+    position: relative;
+    background-color:white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1; */
+}
+
+.dropbtn{
+    color:black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    border: none;
+    background-color: white;
+    font-size: 16px;
+}
+
+.tt  a{
+    text-decoration: none;
+    color: black;
+    margin-left: 25px;
+}
+/* .py a:hover{
+    background-color:white;
+} */
+/* .py-btn:hover .py{
+    display: block;
+    left: 0%;
+} */
+.py-btn:hover .dropbtn {
+    background-color:white;
+}

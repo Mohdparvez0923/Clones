@@ -1,0 +1,259 @@
+* {
+    text-transform: capitalize;
+    font-family: 'Roboto', sans-serif;
+}
+
+.head {
+    background-color: white;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    left: 0;
+    box-shadow: 0px 0px 5px 0px black;
+}
+
+.top img {
+    width: 7%;
+    padding-right: 7px;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: none;
+    padding-left: 30px;
+    padding-right: 20px;
+    background-color: white;
+    top: 0%;
+    right: 0%;
+    left: 0%;
+    padding-top: 10px;
+    padding-bottom:0;
+}
+
+hr {
+    height: 0px;
+}
+
+.first {
+    padding-left: 62px;
+}
+
+.links ul li {
+    display: inline-block;
+    list-style: none;
+}
+
+
+.links ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: 200;
+    padding: 5px;
+    ;
+    margin-right: 10px;
+    font-size: 14px;
+
+}
+
+/* .top span .hmm{
+    font-size: 10px;
+    font-weight: 200;
+} */
+i {
+    padding-left: 6px;
+    font-size: 20px;
+    margin-right: 8px;
+}
+
+.bar {
+    border: 1px solid black;
+    background-color: whitesmoke;
+    width: 40%;
+    margin-left: 20px;
+    border-radius: 40px;
+}
+
+.bar input {
+    padding: 12px 0px;
+    width: 70%;
+    border: none;
+    outline: none;
+    background-color: whitesmoke;
+    font-size: 14px;
+}
+
+.fa {
+    padding-left: 10px;
+}
+
+.all {
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.all ul {
+    display: flex;
+}
+
+.all ul li {
+    list-style: none;
+}
+
+/* .all ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: 400;
+    font-size: 14px;
+    padding-left: 26px;
+    text-align: center;
+
+} */
+
+.div {
+ margin-top: 9.5%;
+}
+
+
+.text {
+    position: absolute;
+    border: none;
+    width: 30%;
+    /* box-shadow: 0px 0px 3px 1px rgb(73, 72, 72); */
+    padding: 0px 20px;
+    background-color: white;
+    top: 30%;
+    left: 5%;
+}
+
+.text h2 p {
+    font-size: 30px;
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+}
+
+.one {
+    font-family: 'Poppins', sans-serif;
+    font-size: 30px;
+
+}
+.contain{
+    margin-left: 60px;
+}
+.contain p{
+    font-size: 20px ;
+}
+.what{
+    display: flex;
+}
+
+.what ul li a {
+    text-decoration: none;
+    color: black;
+   
+}
+
+.cw .py{
+    border: 1px solid gray;
+    margin: 0 60px;
+    padding: 0 20px;
+}
+.py h3{
+    font-weight: bolder;
+}
+.py button{
+    background-color: white;
+    border: 1px solid black;
+    padding: 10px 10px;
+    margin-bottom: 10px;
+}
+.py button a{
+    text-decoration: none;
+    color: black;
+}
+.top-cat{
+    display: flex;
+    margin: 5px 20px;
+}
+.top-cat .categories-1 a{
+    display: block;
+}
+.top-cat .categories-1{
+    margin-left: 20px;
+}
+.categories-1 a{
+    text-decoration: none;
+    color: black;
+}
+.person1{
+    width: 35%;
+    margin-left: 8%;
+    padding-top: 7%;
+}
+.person1 p{
+    font-size: 18px;
+}
+.person1 button{
+    font-size: 18px;
+    border: none;
+    background-color: black;
+    color: white;
+    padding: 12px 16px;
+}
+.person{
+    display: flex;
+    margin-left: 16%;
+    margin-top: 5%;
+}
+.ud-bus{
+    width:60%;
+}
+footer{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    margin-top: 5%;
+    /* padding-bottom: 30px; */
+    background-color: rgb(24, 23, 23);
+}
+.list{
+    display: flex;
+}
+.list .list-1{
+    margin-left:10px;
+    line-height: 30px;
+}
+.list-2{
+    margin-left: 9%;
+    line-height: 30px;
+}
+.list-3{
+    margin-left: 9%;
+    line-height: 30px;
+}
+.list ul li {
+    list-style: none;
+}
+.list ul li a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+}
+.last{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 3%;
+}
+.last img{
+    width: 7%;
+}
+.last span{
+    color: white;
+    font-size: 14px;
+}
+
